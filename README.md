@@ -6,7 +6,7 @@
 git clone git@github.com:thewebmaster/flexlayout-issue.git
 ```
 
-2. Once cloned, go to the project directory and run `npm install` and then `npm run` and the project will start and open up your browser to `http://localhost:3000/`
+2. Once cloned, go to the project directory and run `npm install` and then `npm start` and the project will start and open up your browser to `http://localhost:3000/`
 
 3. Test dragging and dropping `Draggable Conent 1`. You should be able to confirm that the drag and drop is working.
 
